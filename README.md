@@ -23,3 +23,5 @@ This adds an extra challenge because the Tagger cannot see which direction butto
 The Runner's goal is to reach the exit before being caught by the Tagger.
 
 **Have fun!**
+
+![img](/sprites/Maze/Maze.png)
